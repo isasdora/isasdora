@@ -1,5 +1,5 @@
-## Olá, sou a Isadora, seja bem vindo(a)!
-
+ <h1 align="center">Olá, sou a Isadora, seja bem vindo(a)!</h1>
+ 
 <div>
   <p align="center">
     Sou estudante de Sistemas de Informação na UFU e tenho uma paixão especial por Programação Orientada a Objetos e Machine Learning. Tenho fascínio pela maneira como a POO     
