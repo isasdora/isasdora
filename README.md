@@ -8,7 +8,9 @@
 </div>
 
 <div align="center" style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isasdora&layout=compact&langs_count=16&theme=transparent"/>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isasdora&theme=algolia&show_icons=true)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isasdora&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 <br>
