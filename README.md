@@ -7,9 +7,12 @@
   </p>
 </div>
 
+<div align="center" style="display: inline_block">
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isasdora&show_icons=true&theme=algolia)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isasdora&layout=compact&theme=algolia)
-
+ 
+</div>
 <br>
 
 <div  align="center"> 
