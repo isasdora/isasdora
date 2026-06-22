@@ -2,8 +2,7 @@
  
 <div>
   <p align="center">
-    Sou estudante de Sistemas de Informação na UFU e tenho uma paixão especial por Programação Orientada a Objetos e Machine Learning. Tenho fascínio pela maneira como a POO     
-    permite a criação de sistemas robustos e eficientes e como o Machine Learning oferece soluções inteligentes para problemas complexos.
+    Analista de Sistemas formada pela UFU, com experiência na análise de incidentes, identificação de falhas e validação de dados, contribuindo para a estabilidade e melhoria contínua dos processos de negócio.
   </p>
 </div>
 
